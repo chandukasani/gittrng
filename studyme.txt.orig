@@ -1,4 +1,6 @@
 Hi My name is file2 i was just created
+<<<<<<< HEAD
 line 2 in second file has been updated
+=======
 the line was added in bugfix to merge both and see what happens
-
+>>>>>>> Bugfix
