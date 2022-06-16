@@ -1,1 +1,2 @@
 Hi My name is file2 i was just created
+line 2 in second file has been updated
